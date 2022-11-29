@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AI & MLC<br>I'm currently in second year of CS branch<br>You can ask me about AI implementation and automation
+I'm currently working on AI & ML<br>I'm currently in second year of CS branch<br>You can ask me about AI implementation and automation
 
 
 ## 🌐 Socials:
