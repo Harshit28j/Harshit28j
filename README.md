@@ -1,11 +1,29 @@
-# 💫 About Me:
-I'm currently working on AI & ML<br>I'm currently in second year of CS branch<br>You can ask me about AI implementation and automation
+# Welcome to My GitHub Profile
 
+Hi there! I'm a 2nd year engineering college student with a passion for programming and a strong desire to learn and grow as a software developer. Currently, I am proficient in Python and Java, and I am always eager to tackle new challenges and expand my skillset.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this_is_harshit_jain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCCjdXFKa_bzIrlwjuZP39YA/?sub_confirmation=) 
+## Skills
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- :snake: Proficient in Python programming
+- :coffee: Proficient in Java programming
+- :computer: Strong understanding of object-oriented programming concepts
+- :octocat: Familiarity with Git and GitHub
+- :thinking: Ability to learn quickly and work well in a team
+- :fire: Creative and enthusiastic approach to problem-solving
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Projects
+
+Here are some of the programs I have created:
+- **[H_writes]([Project on GitHub](https://github.com/Harshit28j/Hwrites))**: A program that can mimic your handwriting
+- **[Password generator]: A program that can generate possible password combinations based on your guesses and assumptions
+
+## Contact Me
+
+Feel free to reach out to me if you have any questions or would like to collaborate on a project. I can be contacted via the following methods:
+
+- :email: Email: Harshitjain0562@gmail.com
+- :video_camera: YouTube: [@harshit_ai]([YouTube channel](https://www.youtube.com/channel/UCCjdXFKa_bzIrlwjuZP39YA?sub_confirmation=1))
+- :bird: Twitter: [@harshit_ai]([Twitter profile](https://twitter.com/harshit_ai))
+<!-- - :necktie: LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile) -->
+
+Thank you for visiting my GitHub profile! I am always open to feedback and suggestions, so don't hesitate to reach out.
