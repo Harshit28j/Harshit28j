@@ -23,7 +23,7 @@ Feel free to reach out to me if you have any questions or would like to collabor
 
 - :email: Email: Harshitjain0562@gmail.com
 - :video_camera: YouTube: [@harshit_ai]([YouTube channel](https://www.youtube.com/channel/UCCjdXFKa_bzIrlwjuZP39YA?sub_confirmation=1))
-<!-- - :bird: Twitter: [@harshit_ai]([Twitter profile](https://twitter.com/harshit_ai)) -->
+- :bird: Twitter: [@harshit_ai]([Twitter profile](https://twitter.com/harshit_py))
 <!-- - :necktie: LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile) -->
 
 Thank you for visiting my GitHub profile! I am always open to feedback and suggestions, so don't hesitate to reach out.
