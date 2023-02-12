@@ -22,8 +22,8 @@ Here are some of the programs I have created:
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. I can be contacted via the following methods:
 
 - :email: Email: Harshitjain0562@gmail.com
-- :video_camera: YouTube: [@harshit_ai]([YouTube](https://www.youtube.com/channel/UCCjdXFKa_bzIrlwjuZP39YA?sub_confirmation=1))
-- :bird: Twitter: [@harshit_py]([Twitter](https://twitter.com/harshit_py))
+- :video_camera: YouTube: [@harshit_ai]([YouTube channel](https://www.youtube.com/channel/UCCjdXFKa_bzIrlwjuZP39YA?sub_confirmation=1))
+- :bird: Twitter: [@harshit_py]([Twitter profile](https://twitter.com/harshit_py))
 <!-- - :necktie: LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile) -->
 
 Thank you for visiting my GitHub profile! I am always open to feedback and suggestions, so don't hesitate to reach out.
