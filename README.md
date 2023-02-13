@@ -22,7 +22,7 @@ Here are some of the programs I have created:
 - 🐍 Proficient in Python and Python Django, Automation
 - 🗄️ Experienced with MySQL and phpMyAdmin
 - ☕ Proficient in Java
-- 📃 Knowledgeable in HTML, CSS, and basics of JavaScript
+- 📃 Knowledgeable in HTML, CSS, C, and basics of JavaScript
 - 💻 Skilled in Adobe Photoshop and Adobe Premiere Pro
 
 
