@@ -1,13 +1,6 @@
-# Hi 👋, I'm Harshit Jain
-## Software Developer from India
+# Hi 👋, I'm Harshit Jain Software Developer from India
 
-![Profile views](https://komarev.com/ghpvc/?username=harshit28j&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/harshit_py?logo=twitter&style=for-the-badge)](https://twitter.com/harshit_py)
-
-### Connect with me:
-
-[<img align="left" alt="harshit_py | Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/harshit_py)<br>
 
 ### Languages and Tools:
 
@@ -17,7 +10,10 @@
 
 ---
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit28j&show_icons=true&locale=en&layout=compact" alt="harshit28j" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit28j&show_icons=true&locale=en" alt="harshit28j" />
 
+
+![Profile views](https://komarev.com/ghpvc/?username=harshit28j&label=Profile%20views&color=0e75b6&style=flat)
