@@ -3,7 +3,7 @@
   <h3 align="center"><b> Developer | Problem Solver | Exploring Computer Vision & Web Dev</b></h3> 
 
 ## About Me:
-- 🔭 I’m currently learning **Web Dev and Testing**
+- 🔭 I’m currently learning **Angular js and Testing**
 
 - 💬 Ask me about **Web Dev, Computer Vision, Automation**
 
