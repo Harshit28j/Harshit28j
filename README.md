@@ -18,8 +18,8 @@
 ## 📊 My Github Stats
 
    <br/>
-<a href="https://github.com/harshit28j/github-readme-stats"><img alt="Harshit Jain Github Stats" src="https://github-readme-stats-roan-six-43.vercel.app/api?username=harshit28j&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/harshit28j/github-readme-stats"><img alt="Harshit Jain Top Languages" src="https://github-readme-stats-roan-six-43.vercel.app/api/top-langs/?username=harshit28j&langs_count=20&include_all_commits=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/harshit28j/github-readme-stats"><img alt="Harshit Jain Github Stats" src="https://github-readme-stats-sigma-five-16.vercel.app/api?username=harshit28j&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/harshit28j/github-readme-stats"><img alt="Harshit Jain Top Languages" src="https://github-readme-stats-sigma-five-16.vercel.app/api/top-langs/?username=harshit28j&langs_count=20&include_all_commits=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
