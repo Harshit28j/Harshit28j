@@ -3,9 +3,9 @@
   <h3 align="center"><b> Developer | Problem Solver | Exploring Computer Vision & Web Dev</b></h3> 
 
 ## About Me:
-- 🔭 I’m currently learning **Angular js and Testing**
+- 🔭 I’m currently learning ****
 
-- 💬 Ask me about **Web Dev, Computer Vision, Automation**
+- 💬 Ask me about **Web Dev, Django , Computer Vision, Automation**
 
 ## 🛠️ Languages and Tools:
 <p>
