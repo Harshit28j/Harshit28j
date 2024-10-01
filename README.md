@@ -3,7 +3,7 @@
   <h3 align="center"><b> Developer | Problem Solver | Exploring Computer Vision & Web Dev</b></h3> 
 
 ## About Me:
-- 🔭 I’m currently learning ****
+- 🔭 I'm currently upskilling my development skills.
 
 - 💬 Ask me about **Web Dev, Django , Computer Vision, Automation**
 
