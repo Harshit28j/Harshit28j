@@ -4,13 +4,13 @@
 
 ## About Me:
 - 🔭 I'm currently upskilling my development skills.
-
-- 💬 Ask me about **Web Dev, Django , Computer Vision, Automation**
+- 🌱 I'm actively working on a project to enhance my expertise in **Web Development, Django, Computer Vision, and Automation**.
+- 📫 For work inquiries, contact me at **harshitwork0562@gmail.com**.
 
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,powershell,html,css,javascript,react,angular,nodejs,django,mysql,git,github,gitlab,githubactions,docker,linux,ubuntu,vscode,photoshop,premiere,figma,opencv,sklearn,discordbots,tailwind,bootstrap,postman,vscode,pycharm,windows"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,django,mysql,git,github,docker,linux,ubuntu,vscode,opencv,discordbots,tailwind,bootstrap,postman"/>
   </a>
 </p>
 </div>
