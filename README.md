@@ -10,7 +10,7 @@
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,django,mysql,git,github,docker,linux,ubuntu,vscode,opencv,discordbots,tailwind,bootstrap,postman"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,django,mysql,git,github,docker,linux,ubuntu,vscode,opencv,discordbots,tailwind,bootstrap,postman,aws"/>
   </a>
 </p>
 </div>
