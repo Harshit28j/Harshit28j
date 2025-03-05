@@ -1,10 +1,11 @@
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Harshit Jain</b></h1>
-  <h3 align="center"><b>Full Stack AI Developer | Open Source Contributor | Problem-Solver</b></h3> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Harshit Jain</b></h1>
+<h3 align="center"><b>Full Stack AI Developer | Open Source Contributor | Problem-Solver</b></h3>
 
 ## About Me:
 - 🔭 I am a Full Stack AI developer. I enjoy building web apps, creating meaningful projects, integrating LLMs, and making life simpler.  
 - 📫 For work inquiries, contact me at **harshitwork0562@gmail.com**.  
-- ⚒️ Here are some of my projects: <a href='bento.me/harshitpy'>Projects</a>  
+- ⚒️ Here are some of my <a href="https://bento.me/harshitpy" target="_blank">Projects</a>.
+
 
 
 ## 🛠️ Languages and Tools:
