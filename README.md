@@ -1,16 +1,16 @@
-
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Harshit Jain</b></h1>
-  <h3 align="center"><b> Developer | Problem Solver | Exploring Computer Vision & Web Dev</b></h3> 
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Harshit Jain</b></h1>
+  <h3 align="center"><b>Full Stack AI Developer | Open Source Contributor | Problem-Solver</b></h3> 
 
 ## About Me:
-- 🔭 I'm currently upskilling my development skills.
-- 🌱 I'm actively working on a project to enhance my expertise in **Web Development, Django, Computer Vision, and Automation**.
-- 📫 For work inquiries, contact me at **harshitwork0562@gmail.com**.
+- 🔭 I am a Full Stack AI developer. I enjoy building web apps, creating meaningful projects, integrating LLMs, and making life simpler.  
+- 📫 For work inquiries, contact me at **harshitwork0562@gmail.com**.  
+- ⚒️ Here are some of my projects: <a href='bento.me/harshitpy'>Projects</a>  
+
 
 ## 🛠️ Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,django,mysql,git,github,docker,linux,ubuntu,vscode,opencv,discordbots,tailwind,bootstrap,postman,aws"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,django,mysql,postgres,git,github,docker,linux,ubuntu,vscode,opencv,discordbots,tailwind,postman,aws"/>
   </a>
 </p>
 </div>
