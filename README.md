@@ -4,7 +4,7 @@
 ## About Me:
 - 🔭 I am a Full Stack AI developer. I enjoy building web apps, creating meaningful projects, integrating LLMs, and making life simpler.  
 - 📫 For work inquiries, contact me at **harshitwork0562@gmail.com**.  
-- ⚒️ Here are some of my <a href="https://bento.me/harshitpy" target="_blank">Projects</a>.
+- ⚒️ You can checkout my projects from here <a href="https://bento.me/harshitpy" target="_blank">Projects</a>.
 
 
 
