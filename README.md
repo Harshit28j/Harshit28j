@@ -12,7 +12,7 @@
 - 🏃 Early morning runs = ultimate therapy (way better than staring at debugging frustration 😂)
 - ☕ **Chai(Tea) >> Coffee**. Fight me on this.
 - ✍️ Ranting about systems, AI, and code on my [blog](https://medium.com/@harshitjain0562)
-- 📦 Explore my projects on [Bento](https://bento.me/harshitpy)
+- 📦 Explore my projects [Here](https://bento.me/harshitpy)
 - 📫 Reach me for work/collabs: **harshitwork0562@gmail.com**
 
 <br/>
