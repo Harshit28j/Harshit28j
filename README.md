@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🔭 Building scalable backends with **Python (Django, FastAPI)**, **TypeScript (React, Node.js)**, and **Go** for high-performance needs
-- 🏃 Early morning runs = ultimate therapy (way better than staring at debugging frustration 😂)
+- 🏃 Early morning runs = ultimate therapy (way better than staring at debugging frustration :D )
 - ☕ **Chai(Tea) >> Coffee**. Fight me on this.
 - ✍️ Ranting about systems, AI, and code on my [blog](https://medium.com/@harshitjain0562)
 - 📦 Explore my projects [Here](https://bento.me/harshitpy)
