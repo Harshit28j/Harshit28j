@@ -21,8 +21,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshit28j&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" height="180" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit28j&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" />
+  
+  <img alt="Harshit's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Harshit28j&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true" height="180" />
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshit28j&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" />
 </p>
 
 <!-- <p align="center">
