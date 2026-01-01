@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitpy/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/harshit_py)
 [![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@harshitjain0562)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat)](https://bento.me/harshitpy)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat)](https://harshit-profile.vercel.app/)
 
 </div>
 
